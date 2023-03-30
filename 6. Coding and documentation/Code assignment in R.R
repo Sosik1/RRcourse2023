@@ -1,5 +1,4 @@
-
-# Sets the path to the parent directory of RR classes
+ # Sets the path to the parent directory of RR classes
 setwd("Z:\\File folders\\Teaching\\Reproducible Research\\2023\\Repository\\RRcourse2023\\6. Coding and documentation")
 
 #   Import data from the O*NET database, at ISCO-08 occupation level.
