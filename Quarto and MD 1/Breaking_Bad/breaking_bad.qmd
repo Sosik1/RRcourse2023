@@ -17,16 +17,22 @@ On October 11, 2019, Netflix released El Camino: A Breaking Bad Movie, a feature
 
 ## Show statistics
 
-```{r echo=FALSE, warning=FALSE}
+```{r echo=FALSE, include=FALSE}
 data <- read.csv("breaking_bad.csv")
 
 data$U.S..viewers_million <- as.numeric(data$U.S..viewers_million)
 
-summary(data)
+data <- na.omit(data)
 ```
 
-```{r}
 
+```{r echo=FALSE, warning=FALSE}
+summary(data)
+```
+## Vievwership
+
+```{r}
+plot(data$Date, data$U.S..viewers_million)
 ```
 
 ## Source
