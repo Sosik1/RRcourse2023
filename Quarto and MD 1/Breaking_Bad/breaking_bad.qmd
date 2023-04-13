@@ -1,0 +1,18 @@
+---
+title: "Breaking Bad TV Series Presentation"
+author: "Rafal Kraszek"
+format: html
+editor: visual
+---
+
+# Breaking Bad
+
+Breaking Bad is an American television drama series created by *Vince Gilligan*, which premiered in 2008 on the cable network AMC. The story is about *Walter White* (*Bryan Cranston*), a 50-year-old high school chemistry teacher in Albuquerque, New Mexico. After White is diagnosed with terminal lung cancer, he uses his chemistry expertise to cook crystal meth, assisted by his former student *Jesse Pinkman* (*Aaron Paul*), to secure his family's (played by *Anna Gunn* and *RJ Mitte*) inheritance before he dies.
+
+During the course of the series, 62 episodes of Breaking Bad aired over five seasons. The pilot episode was first aired on January 20, 2008, and the series finale, was broadcast on September 29, 2013. Breaking Bad: Original Minisodes, which consisted of several one- to five-minute clips, released 17 short episodes over the course of three years throughout Breaking Bad's run.
+
+On October 11, 2019, Netflix released El Camino: A Breaking Bad Movie, a feature film continuation of Breaking Bad, written and directed by Gilligan. An additional short film Snow Globe: A Breaking Bad Short was released on February 17, 2020.
+
+## Source
+
+-   Wikipedia [link](https://en.wikipedia.org/wiki/List_of_Breaking_Bad_episodes)
