@@ -1,9 +1,4 @@
----
-title: "Breaking Bad TV Series Presentation"
-author: "Rafal Kraszek"
-format: html
-editor: visual
----
+
 
 # Breaking Bad
 
@@ -25,14 +20,14 @@ data$U.S..viewers_million <- as.numeric(data$U.S..viewers_million)
 data <- na.omit(data)
 ```
 
-
 ```{r echo=FALSE, warning=FALSE}
 summary(data)
 ```
+
 ## Vievwership
 
 ```{r}
-plot(data$Date, data$U.S..viewers_million)
+plot(data)
 ```
 
 ## Source

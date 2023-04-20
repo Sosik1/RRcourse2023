@@ -1,0 +1,14 @@
+---
+title: "Breaking Bad TV Series Presentation"
+author: "Rafal Kraszek"
+theme: superhero
+format: 
+  html:
+    toc: true
+    toc-depth: 2
+    toc-expand: 3
+    toc-title: Contents
+    toc-location: body
+  ipynb: default
+  pdf: default
+---
