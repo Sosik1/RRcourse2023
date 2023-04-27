@@ -2,7 +2,13 @@
 title: "(R)Markdown"
 author: "Rafal Kraszek"
 date: "4/20/2023"
-format: html
+format:
+  pdf: default
+  html: default
+params:
+  dataset: "C:\\Users\\rk422373\\Documents\\Reproducible Research\\Class 10\\RRcourse2023\\Quarto and MD 3\\4. Params\\file.csv"
+  year: 2017
+  region: Europe
 ---
 
 ```{r}
@@ -53,3 +59,17 @@ Finally, the episodes with the above-average viewership were:
 | 8             | "The Pointy End" | Daniel Minahan      |
 | 9             | "Baelor" | Alan Taylor      |
 | 10            | "Fire and Blood" | Alan Taylor      |
+
+
+** Assignment 27.04.2023
+
+```{r}
+data <- read.csv(params$dataset)
+
+value <- data$value[data$region == params$region & data$year == params$year]
+
+cat("The year is ", params$year, " in ", params$region, " and the value is ", value, ".", sep="")
+
+```
+
+
